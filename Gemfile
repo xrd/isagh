@@ -5,4 +5,4 @@ gem "mechanize"
 gem "webmock"
 #gem "debugger"
 #gem 'rspec', :require => 'spec'
-#gem "geocoder"
+gem "geocoder"
