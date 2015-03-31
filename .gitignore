@@ -22,3 +22,5 @@ public/assets
 .powenv
 node_modules
 cached
+issue-pull-request.sh
+
